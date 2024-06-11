@@ -8,12 +8,14 @@ This Python project provides a simple and efficient URL shortening tool. It allo
 Including shortened URLs in social media posts or SMS messages (character limitations)
 Improving the readability of long URLs in presentations or documents
 Tracking click statistics (optional, see Features)
+
 Features:
 
 URL Shortening: Shorten long URLs into compact codes.
 Customizable Length (Optional): Optionally configure the desired length of shortened codes (default: a reasonable length).
 Character Set: Use a secure character set (e.g., alphanumeric and underscore) for shortened codes.
 Click Tracking (Optional): Add functionality to track clicks on shortened URLs (requires database integration).
+
 Requirements:
 
 Python 3.x (check with python --version or python3 --version)
